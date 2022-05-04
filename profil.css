@@ -1,0 +1,77 @@
+body{
+    font-family: sans-serif;
+    background-color: #e8f9fd;
+    text-align: center;
+     margin: 0px;
+     font-size: 2em;
+}
+#who-my-i{
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+.skills{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align:left ;
+}
+.img3{
+    border-radius: 100%;
+    width:200px;
+    position:relative;
+}
+.imgi{
+    width: 25%;
+    float: left;
+    margin-right: 30%;
+}
+.imgl{
+    width: 25%;
+    float: right;
+    margin-left: 30%;
+
+}
+hr{
+    border-style: none;
+    border-top-style:dotted;        
+    border-width: 10px;
+    color:#2155cd ;
+    width: 5%;
+}
+span{
+    color:#0aa1dd ;
+}
+h1{
+    font-size:100px;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #2155cd;
+}
+h2{
+    margin: 0;
+    font-weight: normal;
+    font-size: 2.5rem;
+    position:relative;
+    color: #0aa1dd;
+}
+h3{
+    font-weight: normal;
+    position:relative;
+    color: #0aa1dd;
+}
+p{
+    color: #79dae8;
+}
+a{
+    color: #0aa1dd;
+}
+ul{
+    color: #79dae8;
+}
+#wit{
+    margin: 0;
+    background-color: white;
+}
+footer{
+    background-color: #79dae8;
+    margin: 0;
+}
